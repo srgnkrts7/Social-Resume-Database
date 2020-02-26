@@ -1,6 +1,6 @@
 # Social Resume Database
 
-# Facebook + Linkedin = Facedin (Social Resume Database)
+# Facebook + LinkedIn = FacedIn (Social Resume Database)
 
 In this project, I have integrated two database models given as a startup kit. The first one is similar to Facebook database model and the second one resembles to LinkedIn database model.  
 
