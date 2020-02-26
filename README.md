@@ -16,3 +16,5 @@ I also have integrated the relational models into the social resume database.
 IMPLEMENTATION-PHYSICAL MODEL 
 
 I have writed some triggers, check constraints, assertion and some basic select, insert, update, delete statements.
+
+The project is implemented in MSSQL
